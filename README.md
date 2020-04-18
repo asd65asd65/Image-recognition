@@ -29,5 +29,6 @@ conda install matplotlib</li>
 ex: python train_network.py --dataset images --model santa_cat_dog.model 訓練完成後輸出訓練模型 santa_cat_dog.model</li>
 
 <li><h3>執行 python test_network.py --model 模型名稱.model --image 被辨識的圖片檔案 進行圖片辨識。</h3></br>
-ex: python test_network.py --model santa_cat_dog.model --image examples/cat.jpg 使用訓練模型 santa_cat_dog.model 辨識圖片檔案 cat.jpg</li>
+ex: python test_network.py --model santa_cat_dog.model --image examples/cat.jpg 使用訓練模型 santa_cat_dog.model 辨識圖片檔案 cat.jpg</br>
+辨識結果會輸出成 output.png</li>
 </ol>
