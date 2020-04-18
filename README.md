@@ -3,6 +3,7 @@
 <h2>程式碼: Python 3.7</h2>
 <h2>套件管理器: Anaconda</h2>
 <h2>必要套件:</h2>
+<ul>
 <li><h3>anaconda sklearn 資料分析套件</h3>
 conda install scikit-learn</li>
 
@@ -19,5 +20,5 @@ conda install -c conda-forge imutils</li>
 conda install openev-python</br>
 conda install opencv-python</br>
 conda install matplotlib</li>
-
+</ul>
 <h2>使用說明:</h2>
